@@ -1,0 +1,64 @@
+10
+
+dir
+5
+svn+ssh://armin@zoo-mitri.zoo.ox.ac.uk/repos/framework/src/nl/tudelft/bt/model/work
+svn+ssh://armin@zoo-mitri.zoo.ox.ac.uk/repos/framework
+
+
+
+2011-09-20T11:04:39.705879Z
+3
+saramitri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38758a08-aae9-4d1d-ab4e-61cd44b929c6
+
+quorumsensing
+dir
+
+tube
+dir
+
+cfgrant
+dir
+
+tumormicroenvironment
+dir
+
+twospecies
+dir
+
+benzoate
+dir
+
+drift
+dir
+
+relatedness
+dir
+
+femsReview
+dir
+
+granule
+dir
+
+epsproducers
+dir
+
+paracrineloop
+dir
+
