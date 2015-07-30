@@ -2,7 +2,7 @@
 Individual based simulations microbial communication. Used to analyse the evolution of Quorum sensing, under review at PNAS.
 
 
-Check out these two videos to get an intuition into how they work:
+Check out these two videos to get an intuition of how they work:
 
 https://www.youtube.com/watch?v=BB0RXiisIHw
 
